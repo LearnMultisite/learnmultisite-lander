@@ -84,23 +84,23 @@ get_header();
 	<div class="max-width-l">
 		<div class="center">
 			<h2>From first principles to professional development</h2>
-			<p class="paragraph">We start with no assumed knowledge and guide you through how to run hundreds or thousands of websites.</p>
+			<p class="paragraph">Learn Multisite from scratch. Here's the full list of sections which covers everything you'll need to run all your organizations websites.</p>
 		</div>
 		<div class="row margin-top timeline">
 		<div class="col-one-fourth">
-				<h5>When you should <em>not</em> use multisite</h5>
+				<h5>When You Should <em>Not</em> Use Multisite</h5>
 				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>When you <em>could</em> use multisite</h5>
+				<h5>When You <em>Could/Should</em> Use Multisite</h5>
 				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>your local environment</h5>
+				<h5>Setting up Your Local Environment</h5>
 				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>How to enable multisite</h5>
+				<h5>Go From Single Site to Multisite</h5>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
 			</div>
 		</div>
@@ -110,7 +110,7 @@ get_header();
 
 		<div class="row margin-top timeline">
 			<div class="col-one-fourth">
-				<h5>Confusing naming conventions</h5>
+				<h5>Namingaming Conventions</h5>
 				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
 			</div>
 			<div class="col-one-fourth">
@@ -118,7 +118,7 @@ get_header();
 				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Network Administration Panel</h5>
+				<h5>Network Admin. Panel</h5>
 				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			</div>
 			<div class="col-one-fourth">
@@ -136,7 +136,7 @@ get_header();
 				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Multisite-specific Emails</h5>
+				<h5>Editing Multisite-specific Emails</h5>
 				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
 			</div>
 			<div class="col-one-fourth">
@@ -144,7 +144,7 @@ get_header();
 				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Database Overview</h5>
+				<h5>Database Overview and Deep Dive</h5>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
 			</div>
 		</div>
@@ -198,15 +198,15 @@ get_header();
 
 		<div class="row margin-top timeline">
 			<div class="col-one-fourth">
-				<h5>WP-CLI and Multisite</h5>
+				<h5>Saving Time and Sanity with WP-CLI</h5>
 				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Build a multisite-aware plugin</h5>
+				<h5>Build a Multisite-aware Plugin</h5>
 				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Build a multisite-ready theme</h5>
+				<h5>Deployinh a Multisite-ready Theme Across Your Sites</h5>
 				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			</div>
 			<div class="col-one-fourth">
@@ -232,7 +232,7 @@ get_header();
 				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Search Engine Optimization in Multisite</h5>
+				<h5>SEO in Multisite</h5>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
 			</div>
 		</div>
