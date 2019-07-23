@@ -37,28 +37,28 @@
 				<p>A premium video-based course about WordPress multisite taught by Jeremy Felt and Rich Tape.</p>
 			</div>
 			<div class="col-one-fifth">
-				<h6>Info</h6>
+				<!-- <h6>Info</h6>
 				<ul class="blank">
 					<li><a href="#">Getting Started</a></li>
 					<li><a href="#">Resources</a></li>
 					<li><a href="#">Pricing</a></li>
-				</ul>
+				</ul>-->
 			</div>
 			<div class="col-one-fifth">
-				<h6>Support</h6>
+				<!-- <h6>Support</h6>
 				<ul class="blank">
 					<li><a href="#">Documentation</a></li>
 					<li><a href="#">Updates</a></li>
 					<li><a href="#">Contact</a></li>
-				</ul>
+				</ul>-->
 			</div>
 			<div class="col-one-fifth">
-				<h6>Connect</h6>
+				<!-- <h6>Connect</h6>
 				<ul class="blank">
 					<li><a href="https://twitter.com/learnmultisite">Twitter</a></li>
 					<li><a href="mailto:hello@learnmultisite.com">Email</a></li>
 					<li><a href="/blog/">Blog</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</div>

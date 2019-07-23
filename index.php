@@ -88,42 +88,20 @@ get_header();
 		</div>
 		<div class="row margin-top timeline">
 		<div class="col-one-fourth">
-				<h5>When You Should <em>Not</em> Use Multisite</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+				<h5><span class="coursecount">01</span>When You Should <em>Not</em> Use Multisite</h5>
+				<p>Multisite isn't always the right tool for the job. Save yourself headaches ny knowing how to decide.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>When You <em>Could/Should</em> Use Multisite</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
+				<h5><span class="coursecount">02</span>When You <em>Could/Should</em> Use Multisite</h5>
+				<p>Now you know when NOT to use Multisite, learn how to make the right decision of when to use it.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Setting up Your Local Environment</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<h5><span class="coursecount">03</span>Setting up Your Local Environment</h5>
+				<p>A local environment is vital and a way for us to all start on the same page. Using Local by Flywheel.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Go From Single Site to Multisite</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="max-width-l">
-
-		<div class="row margin-top timeline">
-			<div class="col-one-fourth">
-				<h5>Namingaming Conventions</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>User Roles</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Network Admin. Panel</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Plugins and Multisite</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				<h5><span class="coursecount">04</span>Go From Single Site to Multisite</h5>
+				<p>Learn how to move from your current single site install to a fresh-and-ready Multisite installation.</p>
 			</div>
 		</div>
 	</div>
@@ -132,42 +110,20 @@ get_header();
 
 		<div class="row margin-top timeline">
 			<div class="col-one-fourth">
-				<h5>Theme Availability and Activation</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+				<h5><span class="coursecount">05</span>Naming Conventions</h5>
+				<p>Blogs? Sites? Networks? Superadmins? Network admins? Learn the lingo in Multisite land.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Editing Multisite-specific Emails</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
+				<h5><span class="coursecount">06</span>User Roles</h5>
+				<p>Multisite changes roles and capabilities within WordPress - learn what it does and why it does it.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Media Uploads and Directories</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<h5><span class="coursecount">07</span>Network Admin Panel</h5>
+				<p>Justlike every site has its own dashboard, every network has it's own administration panel.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Database Overview and Deep Dive</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="max-width-l">
-
-		<div class="row margin-top timeline">
-			<div class="col-one-fourth">
-				<h5>New Site Template</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>WP-Config Defaults</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Domain Mapping</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Development Environments</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				<h5><span class="coursecount">08</span>Plugins and Multisite</h5>
+				<p>Learn the different types of plugins and how Multisite handles them across your network(s).</p>
 			</div>
 		</div>
 	</div>
@@ -176,42 +132,20 @@ get_header();
 
 		<div class="row margin-top timeline">
 			<div class="col-one-fourth">
-				<h5>Multi-language Multisite</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+				<h5><span class="coursecount">09</span>Theme Availability and Activation</h5>
+				<p>Themes are vital in WordPress. Learn how Multisite handles the public-facing side of your sites.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Single Sign-On</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
+				<h5><span class="coursecount">10</span>Editing Multisite-specific Emails</h5>
+				<p>Multisite adds lots of new email templates that are sent to your site managers. Get the lowdown on them.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>The switch_to_blog() function</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<h5><span class="coursecount">11</span>Media Uploads and Directories</h5>
+				<p>WordPress has a media library. Find out how Multisite handles media libraries across your network.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>The REST API</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="max-width-l">
-
-		<div class="row margin-top timeline">
-			<div class="col-one-fourth">
-				<h5>Saving Time and Sanity with WP-CLI</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Build a Multisite-aware Plugin</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Deployinh a Multisite-ready Theme Across Your Sites</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			</div>
-			<div class="col-one-fourth">
-				<h5>Migrations (Staging<->Production)</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				<h5><span class="coursecount">12</span>Database Overview and Deep Dive</h5>
+				<p>Let's take a real detailed look at the database so we can see exactly how Multisite works under the hood.</p>
 			</div>
 		</div>
 	</div>
@@ -220,20 +154,20 @@ get_header();
 
 		<div class="row margin-top timeline">
 			<div class="col-one-fourth">
-				<h5>Multi-tenancy vs Multisite</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+				<h5><span class="coursecount">13</span>New Site Template</h5>
+				<p>What happens when you press 'Add New Site'? Why does that new site look that way?</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Database sharding</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
+				<h5><span class="coursecount">14</span>WP-Config Defaults</h5>
+				<p>Your config file determines how your all of your sites run. Learn how to safely tweak the wp-config.php file.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Security in Multisite</h5>
-				<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<h5><span class="coursecount">15</span>Domain Mapping</h5>
+				<p>Every site in your network can have its own custom URL. Find out a few ways you can achieve this.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>SEO in Multisite</h5>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				<h5><span class="coursecount">16</span>Development Environments</h5>
+				<p>Local, Test, Development, Staging, Pre-production, Production. What are they and how many do you need?</p>
 			</div>
 		</div>
 	</div>
@@ -242,12 +176,78 @@ get_header();
 
 		<div class="row margin-top timeline">
 			<div class="col-one-fourth">
-				<h5>The Future  of Multisite</h5>
-				<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+				<h5><span class="coursecount">17</span>Multi-language Multisite</h5>
+				<p>Do you have visitors that speak different languages? Multisite can help you better reach those folks.</p>
 			</div>
 			<div class="col-one-fourth">
-				<h5>Hosting Recommendations</h5>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur mollit.</p>
+				<h5><span class="coursecount">18</span>Single Sign-On</h5>
+				<p>Want your visitors to be signed in across all of your web properties? Then you'll need single sign-on.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">19</span>The switch_to_blog() function</h5>
+				<p>Developing for multisite often means running code on one site from within another. Find out how.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">20</span>The REST API</h5>
+				<p>WordPress has a great REST API. But does WordPress Multisite? You betcha'</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="max-width-l">
+
+		<div class="row margin-top timeline">
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">21</span>Saving Time and Sanity with WP-CLI</h5>
+				<p>It's impossible to say how much time wp-cli has saved us over the years, but it is a LOT.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">22</span>Build a Multisite-aware Plugin</h5>
+				<p>Building plugins for Multisite isn't quite the same as single site. Learn the common gotchas.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">23</span>Deploying a Multisite-ready Theme Across Your Sites</h5>
+				<p>Your org. have a common look and feel? Need some sites to be slightly different? No probs.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">24</span>Migrations (Staging<->Production)</h5>
+				<p>Moving sites between staging and production can be tricky.  Let's see if we can help out.</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="max-width-l">
+
+		<div class="row margin-top timeline">
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">25</span>Multi-tenancy vs Multisite</h5>
+				<p>What if you want sites with different databases but use the same codebase? Multi-tenancy may be for you.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">26</span>Database sharding</h5>
+				<p>When you start getting into serious numbers of sites or users, you may need to split - or shard - your database. Learn how and why.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">27</span>Security in Multisite</h5>
+				<p>Securing one site can be tricky. What about hundreds of thousands of sites? Learn how to keep your sites and users safe.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">28</span>SEO in Multisite</h5>
+				<p>There's no point in having loads of sites if no one can find them. How can Multisite help you with search engine optimization?</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="max-width-l">
+
+		<div class="row margin-top timeline">
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">29</span>The Future  of Multisite</h5>
+				<p>What's next for Multisite; learn how to stay up-to-date and how you can help guide its future.</p>
+			</div>
+			<div class="col-one-fourth">
+				<h5><span class="coursecount">30</span>Hosting Recommendations</h5>
+				<p>Can 3rd-parties host Multisite for you? Absolutely. Here's some recommendations for you.</p>
 			</div>
 
 		</div>
