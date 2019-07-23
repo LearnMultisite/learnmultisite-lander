@@ -33,7 +33,7 @@
 		</ul>
 		<ul class="inline right">
 			<!-- <li><a href="login.html">Log In</a></li> -->
-			<li><a href="signup.html" class="button button-secondary button-m full-width-tablet" role="button">Sign Up</a></li>
+			<li><a href="signup.html" class="signupbutton button button-secondary button-m full-width-tablet" role="button">Sign Up</a></li>
 		</ul>
 		</nav>
 	</header>

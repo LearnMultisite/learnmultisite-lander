@@ -17,7 +17,7 @@ get_header();
 		<div>
 			<h1 class="hero">Learn Multisite</h1>
 			<p class="lead">A premium video-based course to allow you to run, maintain, and keep secure, multiple WordPress websites at once.</p>
-			<a href="signup.html" class="button button-primary space-top" role="button">Sign Up</a>
+			<a href="signup.html" class="signupbutton button button-primary space-top" role="button">Let me know when you've launched</a>
 		</div>
 		</div>
 		<div class="col-one-half middle">
@@ -32,12 +32,12 @@ get_header();
 		<p class="paragraph">WordPress Multisite allows you to run thousands of sites. We'll give you the know-how and confidence to run 100,000 sites like you're used to running just one.</p>
 		</div>
 		<div class="col-one-half">
-		<img class="rounded shadow-l" src="https://dummyimage.com/1440x900/282c33/fff&text=+" alt="">
+		<img class="rounded shadow-l" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/lots-of-sites.png" alt="Screenshot of WordPress Network  dashboard highlighting a large number of sites">
 		</div>
 	</div>
 	<div class="row max-width-l reverse-order">
 		<div class="col-one-half">
-		<img class="rounded shadow-l" src="https://dummyimage.com/1440x900/ececec/fff&text=+" alt="">
+		<img class="rounded shadow-l" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/learn-inset.png" alt="Example slide with overlay of Rich recording">
 		</div>
 		<div class="col-one-half middle">
 		<h3>35 Videos and 10+ hours of tutorials</h3>
@@ -53,7 +53,7 @@ get_header();
 	<p class="paragraph">We've run some of the biggest multisite installations in the world and have over 15 years experience in developing for WordPress. Learn from our mistakes and our expertise.</p>
 	</div>
 	<div class="margin-top max-width-l">
-	<img class="rounded shadow-l" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/empty.png" alt="">
+	<img class="rounded shadow-l" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/full-slide.jpg" alt="An example slide from the course showing text on a yellow background.">
 	</div>
 </section>
 
@@ -65,16 +65,16 @@ get_header();
 	</div>
 	<div class="row min-two-columns">
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png 1x, <?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark@2x.png 2x" alt="Trusted Company">
+		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/wpcom-logo.png" alt="WordPress.com logo">
 		</div>
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png 1x, <?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark@2x.png 2x" alt="Trusted Company">
+		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/nyt-logo.png" alt="New York Times Logo">
 		</div>
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png 1x, <?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark@2x.png 2x" alt="Trusted Company">
+		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/bbcamerica-logo.png" alt="BBC America Logo">
 		</div>
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png" srcset="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark.png 1x, <?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/trusted-company-dark@2x.png 2x" alt="Trusted Company">
+		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/harvard-logo.png" alt="Harvard University Logo">
 		</div>
 	</div>
 	</div>
