@@ -65,16 +65,16 @@ get_header();
 	</div>
 	<div class="row min-two-columns">
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/wpcom-logo.png" alt="WordPress.com logo">
+			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/nyt-logo.png" alt="New York Times Logo">
 		</div>
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/nyt-logo.png" alt="New York Times Logo">
+			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/bbcamerica-logo.png" alt="BBC America Logo">
 		</div>
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/bbcamerica-logo.png" alt="BBC America Logo">
+			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/harvard-logo.png" alt="Harvard University Logo">
 		</div>
 		<div class="col-one-fourth">
-		<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/harvard-logo.png" alt="Harvard University Logo">
+			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/content/nbc-news.png" alt="NBC News logo">
 		</div>
 	</div>
 	</div>
