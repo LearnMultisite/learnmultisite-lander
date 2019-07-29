@@ -1046,12 +1046,12 @@ p:last-child {
 }
 
 .bg-image-03:after {
-  background: url(https://dummyimage.com/1440x900/ececec/fff&text=Photo+Of+Us);
+  background: url(assets/images/us.jpg);
 }
 
 @media only screen and (max-width: 479px) {
   .bg-image-03:after {
-	background: url(https://dummyimage.com/1440x900/ececec/fff&text=Photo+Of+Us);
+	background: url(assets/images/us.jpg);
   }
 }
 
