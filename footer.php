@@ -23,7 +23,7 @@
 			<form class="row reduce-spacing">
 				<div class="col-two-thirds center-tablet middle">
 					<h3 class="space-none">Ready to get started?</h3>
-					<p class="paragraph">We'll be launching Summer 2019.</p>
+					<p class="paragraph">We'll be launching late 2019.</p>
 				</div>
 				<div class="col-one-third middle">
 					<a href="signup.html" class="signupbutton button button-primary" role="button">Let me know when you've launched!</a>
